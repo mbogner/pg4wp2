@@ -4,7 +4,7 @@ Contributors:	manuel (http://blog.coffeebeans.at), fixes for 3.9.1
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=manuel%40coffeebeans%2eat&lc=US&item_name=pg4wp2&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: database, postgresql, PostgreSQL, postgres, mysql
 Requires at least: 3.9.1, for versions older than 3.9use 1.3.0 from Hawk__
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: 2.0.0
 License: GPLv2 or later
 
